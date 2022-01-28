@@ -1,5 +1,5 @@
 # WMO
-A JavaScript library for popping a new window
+A JavaScript library for popping a new window. WMO stands for Windows Meta Object.
 
 ## Brief History
 I started writing this code in the late 1990s, roughly 1999 or 2000 and first published it in 2002.
